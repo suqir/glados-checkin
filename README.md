@@ -11,7 +11,7 @@
       （若是普通邮箱注册，可更改为.edu邮箱，点下面的 for education 进行申请）  
   填写激活码：  **LMKGQ-4DJ97-XDQFX-VYUY4** 获得3天  
   
-  我相信你们人手一堆教育邮箱，这个网站风控还行 
+  我相信你们人手一堆教育邮箱，这个网站风控还行
 ![](http://tu.yaohuo.me/imgs/2020/06/ed0e944eec323a16.png)
 
 # Github Actions说明
